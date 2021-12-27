@@ -1,12 +1,13 @@
 # Notes
 
-- use `chmod +x <filename>` to make executable and the includ `#!/usr/bin/emv node` and run file using `./<filename>`
+- use `chmod +x <filename>` to make executable and the includ `#!/usr/bin/env node` and run file using `./<filename>`
 - best: `npm link` and `npm uninstall -g <name>`
 - try emoji log
 
 ### Cool Packages
 
-- `npm ora` for command line spinner
+- `npm i ora` for command line spinner
+- `npm i log-symbols` for platform wide symbols
 
 ### Cool code snippets
 
