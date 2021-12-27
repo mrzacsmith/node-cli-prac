@@ -11,9 +11,3 @@ Node engineer that researchs secure and efficient microserivce back-end using No
 💻 GitHub:   https://github.com/mrzacsmith
 
 `)
-
-// test breaking
-// test ready
-// test -u to happy
-// test again
-// pretend it is all done, ready for reveiw
