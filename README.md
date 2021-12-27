@@ -6,8 +6,10 @@
 
 ### Cool Packages
 
-- `npm i ora` for command line spinner
-- `npm i log-symbols` for platform wide symbols
+- `ora` for command line spinner
+- `log-symbols` for platform wide symbols
+- `conduct` creates code of conduct
+- `license` create license doc
 
 ### Cool code snippets
 
